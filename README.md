@@ -1,7 +1,7 @@
 # CSE320_Homework2
 
 #This assignment is a debugging assignment, so the majority of the code was not written by me.
-#Selective areas were written by me, in order the make the code operational.
+//#Selective areas were written by me, in order the make the code operational.
 #In order to be operational, the code needed several memory leaks to be fixed, as well as other various bugs.
 
 #The code attached is completely operational, and recieved a perfect score.
